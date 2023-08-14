@@ -1,2 +1,2 @@
-# centersportsclub.github.io
-Website for the center sports club of Tangail.
+# ExampleSportsClub
+A sceletone of a sports club website
